@@ -1,0 +1,21 @@
+ .header {
+     display: flex;
+     flex-direction: row;
+     position: relative;
+     
+ }
+ 
+ .logo {
+     position: absolute;
+     left: 10px;   
+     color: yellowgreen;    
+}
+
+.service_area {
+    position: absolute;
+    right: 10px;  
+    color: violet;
+}
+
+
+
